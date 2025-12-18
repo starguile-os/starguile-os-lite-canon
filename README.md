@@ -1,3 +1,4 @@
+> This repository is the authoritative canonical reference for STARGUILE OS Lite (X5).
 # STARGUILE OS Lite (X5) — Canon Record
 
 This repository is the **canonical architectural record** for STARGUILE OS Lite (Project X5).
